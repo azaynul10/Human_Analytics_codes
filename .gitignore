@@ -1,0 +1,32 @@
+# Virtual environments
+tf_env/
+.venv/
+venv/
+
+# IDE/Editor files
+.history/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local data/cache
+*.csv
+*.pkl
+*.h5
+*.keras
+
+# Environment files
+.env
+*.env
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS metadata
+.DS_Store
+Thumbs.db
