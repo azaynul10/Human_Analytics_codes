@@ -1,4 +1,4 @@
-# 🔊 AudioFallGuard: Advanced Fall Detection System 🚨
+# 🔊  Advanced Fall Detection System 🚨
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/azaynul10/Human_Analytics_codes" alt="GitHub last commit">
